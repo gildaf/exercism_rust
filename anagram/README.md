@@ -1,0 +1,3 @@
+anagram exercise [link](https://exercism.org/tracks/rust/exercises/anagram/)
+
+I didnt really feel like writing tests for this exercise but all auto test in the link passed. so.......
